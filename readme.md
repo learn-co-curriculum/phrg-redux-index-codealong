@@ -173,3 +173,4 @@ Note that through each code along, we are never updating the DOM directly. Inste
 
 ## References
 - [React Documentation - Controlled Components](https://facebook.github.io/react/docs/forms.html)
+<p data-visibility='hidden'>PHRG Displaying a list of items with redux</p>
